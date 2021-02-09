@@ -116,13 +116,13 @@ module.exports = {
         // publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
         // modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
       }
-    ],
+    ]/*,
     [
       '@vuepress/google-analytics',
       {
         'ga': 'UA-00000000-0' // UA-00000000-0
       }
-    ]
+    ]*/
   ],
   dest: process.env.VUEPRESS_DEST,
   extendPageData ($page) {
@@ -194,12 +194,13 @@ module.exports = {
     }
   ],
   themeConfig: {
-    domain: 'https://heros-et-dragons.fr',
-    repository: 'https://github.com/em-squared/heros-et-dragons-drs',
+    domain: 'https://fan.heros-et-dragons.com',
+    repository: 'https://github.com/igwane/heros-et-dragons-drs',
     kofi: 'https://ko-fi.com/S6S410PB8',
+    kofiigw: 'https://ko-fi.com/igwane',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
     discord: 'https://discord.gg/mp6ECCs',
-    discordHDNO: 'https://discord.gg/MntFXr',
+    /*discordHDNO: 'https://discord.gg/MntFXr',*/
     primaryColor: '#563f5a', // Hero
     accentColor: '#9b1c47', // Dragon
     searchPlaceholder: 'Recherche',

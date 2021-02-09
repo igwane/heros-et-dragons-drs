@@ -1,4 +1,4 @@
-[![H&D DRS Sources Loog](https://github.com/em-squared/heros-et-dragons-drs/blob/master/docs/.vuepress/public/dragon_binaire.png "H&D DRS Sources")](#)
+[![H&D DRS Sources Loog]($site.themeConfig.repository/blob/master/docs/.vuepress/public/dragon_binaire.png "H&D DRS Sources")](#)
 
 # Héros & Dragons DRS
 Ici se trouvent les sources du Document de Référence Système pour le jeu de rôle Héros & Dragons (H&D).
@@ -12,12 +12,12 @@ Exemples :
 
 ### Correction de contenu
 Si vous relevez des erreurs, il suffit d'éditer le fichier source directement sur Github. Un fork sera automatiquement généré, et vous pourrez effectuer une pull request une fois votre correction commitée. La pull request sera acceptée si elle est valide.
-Si vous ne souhaitez pas (ou ne pouvez pas) corriger une erreur vous-même, vous pouvez [créer une issue](https://github.com/em-squared/heros-et-dragons-drs/issues/new) avec le label `documentation`. Soyez le plus précis possible en incluant des liens vers les contenus erronés et les sources des corrections. L'erreur sera corrigée si elle est avérée.
+Si vous ne souhaitez pas (ou ne pouvez pas) corriger une erreur vous-même, vous pouvez [créer une issue]($site.themeConfig.repository/issues/new) avec le label `documentation`. Soyez le plus précis possible en incluant des liens vers les contenus erronés et les sources des corrections. L'erreur sera corrigée si elle est avérée.
 
 ### Développement
 Pour travailler sur le projet, vous devrez au préalable télécharger les sources :
 ```
-git clone git@github.com:em-squared/heros-et-dragons-drs.git
+git clone git@github.com:igwane/heros-et-dragons-drs.git
 ```
 Puis installer les dépendances :
 ```
@@ -70,4 +70,4 @@ Le site statique sera accessible sur http://localhost:8081
 Si le cœur vous en dit, vous pouvez soutenir le projet sur [Ko-fi](https://ko-fi.com/S6S410PB8). Ça sera grandement apprécié. Le site est entièrement gratuit et ne souffre d'aucune publicité. Aucun revenu n'est donc généré par son biais.
 
 ## Licence
-Le code source applicatif (hors contenus donc) est sous [licence GPLv3](https://github.com/em-squared/heros-et-dragons-drs/blob/master/LICENSE). Vous êtes donc libres de le copier, le modifier et le redistribuer à condition d'en conserver la licence d'origine.
+Le code source applicatif (hors contenus donc) est sous [licence GPLv3]($site.themeConfig.repository/blob/master/LICENSE). Vous êtes donc libres de le copier, le modifier et le redistribuer à condition d'en conserver la licence d'origine.

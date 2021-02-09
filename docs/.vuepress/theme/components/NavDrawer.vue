@@ -156,11 +156,14 @@
             <strong>La personne derrière ce site</strong><br>
             Ce site a été développé par <strong>Maxime Moraine</strong> alias <strong>Em-squared</strong>.<br>
             Développeur web passionné de jeux de rôle, j'aime mettre l'un au service de l'autre.<br>
-            Les sources de ce site sont disponibles sur <a :href="$site.themeConfig.repository" target="_blank">GitHub</a> sous Licence <a href="https://github.com/em-squared/heros-et-dragons-drs/blob/master/LICENSE" target="_blank">GPLv3</a>.
+            Les sources de ce site sont disponibles sur <a :href="$site.themeConfig.repository" target="_blank">GitHub</a> sous Licence <a href="$site.themeConfig.repository/blob/master/LICENSE" target="_blank">GPLv3</a>.
           </p>
           <p>Vous souhaitez participer aux frais d'hébergement ou m'encourager ?</p>
           <p class="text-center">
             <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou au développeur</v-btn>
+          </p>
+          <p class="text-center">
+            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofiigw" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou à l'hébergeur</v-btn>
           </p>
           <p><strong><em>Héros & Dragons</em></strong> est un jeu de rôle basé sur les mécaniques de l'<a href="/licence-ogl">OGL5</a> et développé par les talents de la rédaction de <em><a href="https://www.black-book-editions.fr/catalogue.php?id=40" target="_blank">Casus Belli</a></em>, le magazine de référence des jeux de rôle.</p>
           <p>Les textes de cette documentation appartiennent à <a href="https://www.black-book-editions.fr/catalogue.php?id=365" target="_blank">Black Book Éditions</a>.</p>
@@ -188,6 +191,9 @@
           <p>C'est <strong>vous</strong> qui décidez.</p>
           <p class="text-center">
             <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou<span class="d-none d-md-inline">&nbsp;au développeur</span></v-btn>
+          </p>
+          <p class="text-center">
+            <v-btn depressed dark color="#BDB76B" link :href="$site.themeConfig.kofiigw" target="_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou<span class="d-none d-md-inline">&nbsp;à l'hébergeur</span></v-btn>
           </p>
         </v-card-text>
       </v-card>

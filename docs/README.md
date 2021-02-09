@@ -12,6 +12,43 @@ toc: false
 
 Bienvenue sur le site Document de Référence Système pour _**Héros & Dragons**_ !
 
+## Une nouvelle ère
+Chers rôlistes,
+
+Vous l'aurez remarqué, heros-et-dragons.fr va fermer.
+Cet hébergement permet d'avoir une sauvegarde du site tel qui était avant sa fermeture.
+Il y aura peut être des petites modifications à droite à gauche mais le but est vraiment de conserver le boulot énorme éffectué par _**Em-squared**_.
+
+Cette version est hébergée gratuitement.
+
+Merci à _**Em-squared**_ pour son boulot magnifique et le fait d'avoir laisser les sources disponibles.
+
+§§§ .text-right
+_**Igwane**_,  
+_le 9 février 2021_
+§§§
+
+## La fin d'une ère
+Chers rôlistes,
+
+Vous l'aurez remarqué, **Héros & Dragons** est en pleine tourmente. Aussi, les livres seront retirés de la vente dès le 28 février 2021. Malgré le respect strict de l'Opoen Game License, H&D DRS utilise les mêmes textes que ceux contenus dans les livres **Héros & Dragons**. Si ces textes sont sujet à litige par différentes parties, alors le site est également concerné.
+
+De fait, pour ne pas naviguer dans des eaux troubles infestées de requins, et respecter au mieux chaque partie, **le site H&D DRS fermera ses portes ce 28 février 2021 au plus tard**.
+
+Vous comprendrez que cette décision me peine à la hauteur du temps que j'ai consacré à bâtir ce site. Je suis vraiment désolé, je sais que vous êtes un certain nombre à utiliser ce site régulièrement. Je tiens à remercier chaleureusement toutes les personnes qui m'ont soutenu, encouragé et prêté main forte.
+
+À cette heure, je n'ai aucune vision quant à ce que sera l'avenir de ce site à moyen terme. Une chose est sûre, heros-et-dragons.fr ne sera plus.
+
+§§§ .text-right
+_**Em-squared**_,  
+_le 5 février 2021_
+§§§
+
+## Nouvel archétype de druide
+La _gazette Role'n Play #4_ est sortie et un nouvel archétype de druide avec ça ! Vous trouverez donc le [druide du cercle des Châtiments](/classes/druide/#cercle-des-chatiments) qui prend le contre-pied du [druide du cercle de la vie](/classes/druide/#cercle-de-la-vie)e.
+
+Merci à @Sebb pour l'ajout de cet archétype
+
 ## Prêts pour le confinement, saison 2
 Ça y est, nous sommes de nouveaux interdits de jeux de rôle autour d'une table. Mais nous pouvons toujours jouer en ligne. Voici quelques nouveautés dans H&D DRS pour l'occasion :
 
@@ -133,8 +170,8 @@ _le 25 mai 2020_
 ### À propos de ce site
 &nbsp;
 <v-icon>mdi-discord</v-icon> [Discord H&D DRS](https://discord.gg/mp6ECCs), pour discuter de ce site.  
-<v-icon>mdi-github</v-icon> [Sources Github](https://github.com/em-squared/heros-et-dragons-drs), tout le code source en licence GPLv3.  
-<v-icon>mdi-github</v-icon> [Soumettre une demande](https://github.com/em-squared/heros-et-dragons-drs/issues/new), pour signaler une erreur, un bug ou suggérer une amélioration. Tâchez d'être le plus exhaustif et précis possible. S'il y a une erreur, vous devez fournir le lien vers l'erreur et la source de la correction. S'il y a un bug, vous devez fournir une méthode de reproduction.
+<v-icon>mdi-github</v-icon> [Sources Github]($site.themeConfig.repository), tout le code source en licence GPLv3.  
+<v-icon>mdi-github</v-icon> [Soumettre une demande]($site.themeConfig.repository/issues/new), pour signaler une erreur, un bug ou suggérer une amélioration. Tâchez d'être le plus exhaustif et précis possible. S'il y a une erreur, vous devez fournir le lien vers l'erreur et la source de la correction. S'il y a un bug, vous devez fournir une méthode de reproduction.
 
 </v-col>
 </v-row>
