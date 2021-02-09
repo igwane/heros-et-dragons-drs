@@ -3,3 +3,8 @@ docs/.vuepress/dist
 tmp/
 import/
 regex
+.bash_logout
+.bashrc
+.cache/
+.profile
+.viminfo
