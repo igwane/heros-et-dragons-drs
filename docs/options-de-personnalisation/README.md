@@ -157,7 +157,7 @@ Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au
 * [Expert en armes lourdes](#expert-en-armes-lourdes)
 * [Expert en armures](#expert-en-armures)
 * [Expert au bouclier](#expert-au-bouclier)
-* [Expert en manœuvres](#expert-en-manoeuvres)
+* [Expert en manoeuvres](#expert-en-manoeuvres)
 * [Fantassin léger](#fantassin-leger)
 * [Fantassin intermédiaire](#fantassin-intermediaire)
 * [Fantassin lourd](#fantassin-lourd)
@@ -334,7 +334,7 @@ Votre bouclier est devenu un compagnon aussi fidèle que votre arme, vous avez d
 * Vous pouvez utiliser votre bouclier comme une arme légère (1d4 dégâts contondants) tenue dans la seconde main et bénéficier des possibilités du combat à deux armes en plus de son bonus à la CA.
 * Vous pouvez utiliser votre réaction pour imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à un adversaire sur une attaque de corps-à-corps, à distance ou de sort si vous n'êtes pas [_surpris_](/gerer-la-sante-du-personnage/#surpris).
 
-#### Expert en manœuvres
+#### Expert en manoeuvres
 Vous avez étudié des méthodes alternatives de remporter un combat en maîtrisant votre adversaire plutôt qu'en lui infligeant des blessures. Vous obtenez les bénéfices suivants :
 * Vous augmentez au choix votre valeur de Force ou de Dextérité de 1, sans dépasser le maximum de 20.
 * En utilisant une action bonus, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au test de Force (Athlétisme) lorsque vous tentez de bousculer un adversaire.

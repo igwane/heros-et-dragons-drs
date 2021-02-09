@@ -8,3 +8,5 @@ regex
 .cache/
 .profile
 .viminfo
+.config
+.npm
