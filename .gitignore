@@ -10,3 +10,5 @@ regex
 .viminfo
 .config
 .npm
+.gitconfig
+www/
