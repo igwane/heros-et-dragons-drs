@@ -100,16 +100,6 @@
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
-          <v-list-item v-if="$site.themeConfig.discordHDNO" link :href="$site.themeConfig.discordHDNO" target="_blank">
-            <v-list-item-icon>
-              <v-icon>mdi-discord</v-icon>
-            </v-list-item-icon>
-            <v-list-item-content>
-              <v-list-item-title>
-                Discord H&D Non Officiel
-              </v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
           <v-list-item v-if="$site.themeConfig.discord" link :href="$site.themeConfig.discord" target="_blank">
             <v-list-item-icon>
               <v-icon>mdi-discord</v-icon>
@@ -122,7 +112,6 @@
           </v-list-item>
           <v-divider/>
         </v-list-group>
-
         <v-list-item v-if="$site.themeConfig.repository" link :href="$site.themeConfig.repository" target="_blank">
           <v-list-item-icon>
             <v-icon>mdi-github</v-icon>
@@ -130,16 +119,6 @@
           <v-list-item-content>
             <v-list-item-title>
               Sources GitHub
-            </v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-        <v-list-item v-if="$site.themeConfig.kofi" @click.stop="toggleSupportDialog">
-          <v-list-item-icon>
-            <v-icon color="#BDB76B">mdi-glass-mug-variant</v-icon>
-          </v-list-item-icon>
-          <v-list-item-content>
-            <v-list-item-title>
-              Jeter un sou au développeur
             </v-list-item-title>
           </v-list-item-content>
         </v-list-item>

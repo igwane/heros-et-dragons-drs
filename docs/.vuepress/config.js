@@ -86,7 +86,7 @@ module.exports = {
     [
       'sitemap',
       {
-        hostname: 'https://heros-et-dragons.fr'
+        hostname: 'https://fan.heros-et-dragons.com'
       }
     ],
     // [
@@ -120,7 +120,7 @@ module.exports = {
     [
       '@vuepress/google-analytics',
       {
-        'ga': 'UA-122478510-1' // UA-00000000-0
+        'ga': 'UA-00000000-0' // UA-00000000-0
       }
     ]
   ],
